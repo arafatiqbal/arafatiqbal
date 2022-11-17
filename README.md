@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I know 4 languages (😇 not programing)**
 
-### My Latest Blogs Posts
+### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
 <!-- BLOG-POST-LIST:END -->
