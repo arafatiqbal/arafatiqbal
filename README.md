@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, Ember.js**
 
-- 👨‍💻 All of my projects are available at [arafatiqbal.com](arafatiqbal.com)
+- 👨‍💻 All of my projects are available at [arafatiqbal.com]([arafatiqbal.com](https://arafatiqbal.com/))
 
 - 📝 I regularly write articles on [https://dev.to/arafatiqbal](https://dev.to/arafatiqbal)
 
