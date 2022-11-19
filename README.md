@@ -17,7 +17,7 @@
 - [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/arafatiqbal" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="arafatiqbal" height="30" width="40" /></a>
 <a href="https://twitter.com/arafati98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafati98" height="30" width="40" /></a>
@@ -25,19 +25,19 @@
 <a href="https://instagram.com/shotbyarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shotbyarafat" height="30" width="40" /></a>
 </p>
 
-### 🗣 My Recent Activity:
-```
-* 💪 Opened PR #5274 in reactjs/reactjs.org
-* ❗️ Opened issue #5273 in reactjs/reactjs.org
-* 💪 Opened PR #661 in rahuldkjain/github-profile-readme-generator
-* 🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
-* 🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
-* ❗️ Opened issue #660 in rahuldkjain/github-profile-readme-generator
-* 🍴 Forked arafatiqbal/github-profile-readme-generator from rahuldkjain/github-profile-readme-generator
-* 🗣 Commented on #4808 in reactjs/reactjs.org
-* 🗣 Commented on #5257 in reactjs/reactjs.org
-* 💪 Opened PR #5266 in reactjs/reactjs.org
-```
+### 🗣 My Recent Activity
+
+💪 Opened PR #5274 in reactjs/reactjs.org
+❗️ Opened issue #5273 in reactjs/reactjs.org
+💪 Opened PR #661 in rahuldkjain/github-profile-readme-generator
+🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
+🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
+❗️ Opened issue #660 in rahuldkjain/github-profile-readme-generator
+🍴 Forked arafatiqbal/github-profile-readme-generator from rahuldkjain/github-profile-readme-generator
+🗣 Commented on #4808 in reactjs/reactjs.org
+🗣 Commented on #5257 in reactjs/reactjs.org
+💪 Opened PR #5266 in reactjs/reactjs.org
+
 
 ------------
-<p align="center">Last refresh: <b>Saturday, November 19th 2022, 9:35:24 pm UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, November 19th 2022, 9:38:33 pm UTC</b></p>
