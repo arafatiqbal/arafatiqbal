@@ -26,7 +26,7 @@
 </p>
 
 ### 🗣 My Recent Activity
-
+```
 💪 Opened PR #5274 in reactjs/reactjs.org
 ❗️ Opened issue #5273 in reactjs/reactjs.org
 💪 Opened PR #661 in rahuldkjain/github-profile-readme-generator
@@ -37,7 +37,7 @@
 🗣 Commented on #4808 in reactjs/reactjs.org
 🗣 Commented on #5257 in reactjs/reactjs.org
 💪 Opened PR #5266 in reactjs/reactjs.org
-
+```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, November 19th 2022, 9:38:33 pm UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, November 19th 2022, 9:40:21 pm UTC</b></p>
