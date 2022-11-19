@@ -26,9 +26,9 @@
 </p>
 
 ### 🗣 My Recent Activity
-
+```
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
-
+```
 
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
