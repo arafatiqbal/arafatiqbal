@@ -27,7 +27,7 @@
 
 ### 🗣 My Recent Activity:
 ```
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": false, "exclude": ["PushEvent"]}-->
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
 ```
 
 ------------
