@@ -40,7 +40,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b><!--TIMESTAMP:{
-  "tz": 'America/Los_Angeles',
-  "format": "dddd, MMMM Do YYYY, h:mm:ss a [PST]",
-}--></b></p>
+<p align="center">Last refresh: <b>Sunday, November 20th 2022, 1:36:45 am PST</b></p>
