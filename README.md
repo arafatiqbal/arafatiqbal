@@ -13,7 +13,6 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Testing in Ember.js](https://dev.to/arafatiqbal/testing-in-emberjs-4p5f)
 - [Top 5 Must Have Mac Apps](https://dev.to/arafatiqbal/top-5-must-have-mac-apps-16n3)
 - [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
 <!-- BLOG-POST-LIST:END -->
@@ -41,4 +40,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, December 11th 2022, 2:15:29 pm UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, December 11th 2022, 3:17:00 pm UTC</b></p>
