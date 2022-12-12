@@ -13,7 +13,6 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Testing in Ember.js](https://dev.to/arafatiqbal/testing-in-emberjs-4p5f)
 - [Top 5 Must Have Mac Apps](https://dev.to/arafatiqbal/top-5-must-have-mac-apps-16n3)
 - [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
 <!-- BLOG-POST-LIST:END -->
@@ -28,6 +27,8 @@
 
 ### 🗣 My Recent Activity
 ```
+💪 Opened PR #1244 in ember-learn/deprecation-app
+❗️ Opened issue #1243 in ember-learn/deprecation-app
 💪 Opened PR #1242 in ember-learn/deprecation-app
 ❗️ Opened issue #1241 in ember-learn/deprecation-app
 💪 Opened PR #1240 in ember-learn/deprecation-app
@@ -36,9 +37,7 @@
 ❗️ Opened issue #1239 in ember-learn/deprecation-app
 ❗️ Closed issue #974 in ember-learn/ember-website
 🗣 Commented on #1314 in graphql/graphql.github.io
-💪 Opened PR #975 in ember-learn/ember-website
-❗️ Opened issue #974 in ember-learn/ember-website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, December 12th 2022, 6:23:04 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, December 12th 2022, 7:15:26 am UTC</b></p>
