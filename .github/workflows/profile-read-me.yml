@@ -17,14 +17,16 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
-
+    - name: Pull in dev.to posts
+      uses: gautamkrishnar/blog-post-workflow@v1
+      with:
+        feed_list: "https://dev.to/feed/arafatiqbal"
     - name: Generate README.md
       uses: actions-js/profile-readme@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         username: arafatiqbal
         template: "TEMPLATE.md"
-      
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
