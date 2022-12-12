@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arafat</h1>
-<h3 align="left">Full-Stack Developer from Portland</h3>
+<h3 align="left">Full-Stack Software Engineer from Portland</h3>
 
 - 🌱 I’m currently learning **React.js, Ember.js**
 
