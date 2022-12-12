@@ -9,15 +9,13 @@ on:
       - master
 
 jobs:
-  publish:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout sources
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
-        fetch-depth: 0
-    - name: Pull in dev.to posts
-      uses: gautamkrishnar/blog-post-workflow@v1
-      with:
-        feed_list: "https://dev.to/feed/arafatiqbal"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/arafatiqbal"
