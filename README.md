@@ -25,20 +25,3 @@
 <a href="https://linkedin.com/in/arafat-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-iqbal" height="30" width="40" /></a>
 <a href="https://instagram.com/shotbyarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shotbyarafat" height="30" width="40" /></a>
 </p>
-
-### 🗣 My Recent Activity
-```
-💪 Opened PR #1244 in ember-learn/deprecation-app
-❗️ Opened issue #1243 in ember-learn/deprecation-app
-💪 Opened PR #1242 in ember-learn/deprecation-app
-❗️ Opened issue #1241 in ember-learn/deprecation-app
-💪 Opened PR #1240 in ember-learn/deprecation-app
-🍴 Forked arafatiqbal/deprecation-app from ember-learn/deprecation-app
-🗣 Commented on #1239 in ember-learn/deprecation-app
-❗️ Opened issue #1239 in ember-learn/deprecation-app
-❗️ Closed issue #974 in ember-learn/ember-website
-🗣 Commented on #1314 in graphql/graphql.github.io
-```
-
-------------
-<p align="center">Last refresh: <b>Monday, December 12th 2022, 7:15:26 am UTC</b></p>
