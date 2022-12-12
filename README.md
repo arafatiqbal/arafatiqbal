@@ -13,7 +13,6 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Testing in Ember.js](https://dev.to/arafatiqbal/testing-in-emberjs-4p5f)
 - [Top 5 Must Have Mac Apps](https://dev.to/arafatiqbal/top-5-must-have-mac-apps-16n3)
 - [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
 <!-- BLOG-POST-LIST:END -->
@@ -28,6 +27,8 @@
 
 ### 🗣 My Recent Activity
 ```
+🗣 Commented on #1239 in ember-learn/deprecation-app
+❗️ Opened issue #1239 in ember-learn/deprecation-app
 ❗️ Closed issue #974 in ember-learn/ember-website
 🗣 Commented on #1314 in graphql/graphql.github.io
 💪 Opened PR #975 in ember-learn/ember-website
@@ -36,9 +37,7 @@
 💪 Opened PR #5274 in reactjs/reactjs.org
 ❗️ Opened issue #5273 in reactjs/reactjs.org
 💪 Opened PR #661 in rahuldkjain/github-profile-readme-generator
-🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
-🗣 Commented on #660 in rahuldkjain/github-profile-readme-generator
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, December 11th 2022, 11:17:52 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, December 12th 2022, 1:36:32 am UTC</b></p>
