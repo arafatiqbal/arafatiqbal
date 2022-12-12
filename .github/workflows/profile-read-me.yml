@@ -20,6 +20,7 @@ jobs:
     - name: Pull in dev.to posts
       uses: gautamkrishnar/blog-post-workflow@v1
       with:
+        template: "TEMPLATE.md"
         feed_list: "https://dev.to/feed/arafatiqbal"
     - name: Generate README.md
       uses: actions-js/profile-readme@master
