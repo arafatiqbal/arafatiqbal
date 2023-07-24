@@ -9,13 +9,6 @@
 
 - ⚡ Fun fact **I know 4 languages (😇 not programing)**
 
-### My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Intro to Testing in Ember.js](https://dev.to/arafatiqbal/testing-in-emberjs-4p5f)
-- [Top 5 Must Have Mac Apps](https://dev.to/arafatiqbal/top-5-must-have-mac-apps-16n3)
-- [First 5 Months, as a Jr. Dev](https://dev.to/arafatiqbal/first-5-months-as-a-jr-dev-2abl)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/arafatiqbal" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="arafatiqbal" height="30" width="40" /></a>
