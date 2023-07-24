@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [arafatiqbal.com](https://arafatiqbal.com/)
 
-- 📝 I regularly write articles on [dev.to/arafatiqbal](https://dev.to/arafatiqbal)
-
 - 📫 How to reach me **contact.arafatiq@gmail.com**
 
 - ⚡ Fun fact **I know 4 languages (😇 not programing)**
