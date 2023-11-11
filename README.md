@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm Arafat</h1>
 <h3 align="left">Software Engineer from Portland</h3>
 
-- 🌱 I’m currently learning **React.js, Ember.js**
-
-- 👨‍💻 All of my projects are available at [arafatiqbal.com](https://arafatiqbal.com/)
-
 - 📫 How to reach me **contact.arafatiq@gmail.com**
 
 - ⚡ Fun fact **I know 4 languages (😇 not programing)**
