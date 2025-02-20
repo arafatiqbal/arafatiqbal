@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arafat</h1>
-<h3 align="left">Software Engineer from Portland</h3>
+<h3 align="left">Software Engineer</h3>
 
 - 📫 How to reach me **contact.arafatiq@gmail.com**
 
