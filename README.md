@@ -4,9 +4,6 @@
 
 **Software Engineer** · building things with TypeScript & Svelte
 
-[![Follow on GitHub](https://img.shields.io/github/followers/arafatiqbal?label=Follow&style=social)](https://github.com/arafatiqbal)
-[![Stars](https://img.shields.io/github/stars/arafatiqbal?style=flat)](https://github.com/arafatiqbal?tab=repositories)
-
 ---
 
 ## About
