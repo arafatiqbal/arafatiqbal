@@ -1,13 +1,40 @@
-<h1 align="left">Hi 👋, I'm Arafat</h1>
-<h3 align="left">Software Engineer</h3>
+<!-- Replace placeholders: USERNAME, AVATAR_URL, EMAIL, LINKS -->
 
-- 📫 How to reach me **contact.arafatiq@gmail.com**
+# Hi, I'm Arafat 👋
 
-- ⚡ Fun fact **I know 4 languages (😇 not programing)**
+**Software Engineer** · building things with TypeScript & Svelte
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://dev.to/arafatiqbal" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="arafatiqbal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arafat-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-iqbal" height="30" width="40" /></a>
-<a href="https://instagram.com/shotbyarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shotbyarafat" height="30" width="40" /></a>
-</p>
+[![Follow on GitHub](https://img.shields.io/github/followers/arafatiqbal?label=Follow&style=social)](https://github.com/arafatiqbal)
+[![Stars](https://img.shields.io/github/stars/arafatiqbal?style=flat)](https://github.com/arafatiqbal?tab=repositories)
+
+---
+
+## About
+Short intro about what you build and care about.
+
+<details>
+  <summary>Contact & quick links</summary>
+
+  - Email: [EMAIL](mailto:EMAIL)
+  - Blog / Notes: LINK
+  - Resume: LINK
+</details>
+
+---
+
+## Highlights
+- 🔭 Currently: Project Name — one-line summary  
+- ⚡ Fun fact: I speak multiple languages (not only programming)  
+- 📫 Reach me: [EMAIL](mailto:EMAIL)
+
+---
+
+## Skills
+- Frontend: TypeScript · Svelte · SvelteKit · Tailwind
+- Backend: Node · PostgreSQL
+
+---
+
+## Projects
+- [Project One](LINK) — one-line summary  
+- [Project Two](LINK) — one-line summary
