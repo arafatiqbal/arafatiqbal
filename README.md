@@ -7,31 +7,26 @@
 ---
 
 ## About
-Short intro about what you build and care about.
+Software Engineer with experience across frontend, backend, and DevOps. I’ve built production apps, optimized Kubernetes clusters, streamlined CI/CD, and collaborated with UX and product teams to deliver impactful features. I care about building scalable systems and making engineering workflows smoother.
 
 <details>
   <summary>Contact & quick links</summary>
 
-  - Email: [EMAIL](mailto:EMAIL)
-  - Blog / Notes: LINK
+  - Email: [arafatiqbal123@gmail.com](mailto:arafatiqbal123@gmail.com)
+  - LinkedIn: [linkedin.com/in/arafat-iqbal](https://linkedin.com/in/arafat-iqbal)
   - Resume: LINK
 </details>
 
 ---
 
 ## Highlights
-- 🔭 Currently: Project Name — one-line summary  
+- 🔭 Currently: Software Engineer II at Dexcom — DevOps-focused, scaling infrastructure & improving CI/CD  
 - ⚡ Fun fact: I speak multiple languages (not only programming)  
-- 📫 Reach me: [EMAIL](mailto:EMAIL)
+- 📫 Reach me: [arafatiqbal123@gmail.com](mailto:arafatiqbal123@gmail.com)
 
 ---
 
 ## Skills
-- Frontend: TypeScript · Svelte · SvelteKit · Tailwind
-- Backend: Node · PostgreSQL
-
----
-
-## Projects
-- [Project One](LINK) — one-line summary  
-- [Project Two](LINK) — one-line summary
+- Frontend: TypeScript · Ember.js · Svelte · SvelteKit · Tailwind
+- Backend: Node.js · PostgreSQL · REST APIs
+- DevOps/Cloud: Kubernetes · GCP · ArgoCD · Helm · GitOps · CI/CD · Datadog
